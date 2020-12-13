@@ -1,0 +1,14 @@
+C:\Users\gaffo\source\repos\Client\Client\bin\Debug\Client.exe.config
+C:\Users\gaffo\source\repos\Client\Client\bin\Debug\Client.exe
+C:\Users\gaffo\source\repos\Client\Client\bin\Debug\Client.pdb
+C:\Users\gaffo\source\repos\Client\Client\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\gaffo\source\repos\Client\Client\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\gaffo\source\repos\Client\Client\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gaffo\source\repos\Client\Client\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\gaffo\source\repos\Client\Client\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\gaffo\source\repos\Client\Client\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\gaffo\source\repos\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\gaffo\source\repos\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\gaffo\source\repos\Client\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\gaffo\source\repos\Client\Client\obj\Debug\Client.exe
+C:\Users\gaffo\source\repos\Client\Client\obj\Debug\Client.pdb
